@@ -1,0 +1,6 @@
+{
+  "name": "TWO OF US",
+  "description": "A Little World, Just for Two — a cozy, romantic, private multiplayer gaming lounge for two people.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
